@@ -1,1 +1,1 @@
-echo "I an Periklean. Totally not a bot."
+echo "I am Periklean. Totally not a bot."
